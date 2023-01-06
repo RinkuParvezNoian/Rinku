@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+}
+
+.header {
+    background-image: url('../images/donation13.jpg');
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.nav-title {
+    display: flex;
+    justify-content: center;
+}
+
+.div-container {
+    max-width: 40%;
+    margin-top: 250px;
+    color: white;
+
+}
+.header-in {
+    width: 50vh;
+}
+
+.header-title {
+    margin-bottom: 20px;
+    font-weight: 900;
+    font-size: 35px;
+    font-family: serif;
+}
+
+.btn-tag {
+    background-color: rgb(236, 90, 32);
+    border: 0;
+    padding: 8px 10px;
+    border-radius: 2px;
+    color: white;
+}
+
+/* banner-info */
+
+
+.banner-container {
+    width: 60%;
+    margin: 100px auto 30px auto;
+}
+
+.banner-title {
+    margin-bottom: 15px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.list-info {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    font-weight: 800;
+    font-size: 25px;
+    color: rgb(236, 167, 167);
+
+}
+
+.btn-container {
+    text-align: center;
+}
+
+.banner-our-donate {
+    width: 60%;
+    margin: 20px auto;
+}
+
+.parents-div {
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    margin: 20px auto;
+}
+
+.child-div {
+    
+}
+
+.child {
+    background-color: rgba(243, 237, 149, 0.897);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.comon-title {
+    font-weight: 800;
+}
+
+.father-div {
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    margin: 20px auto;
+}
